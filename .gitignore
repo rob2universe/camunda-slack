@@ -1,0 +1,4 @@
+/.idea/
+/camunda-slack.iml
+/target/
+/src/main/resources/slackClient.properties
